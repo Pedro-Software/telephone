@@ -1,9 +1,7 @@
 import java.util.Random;
 
-/**
- * Mimic the data input ability of a physical phone's keypad;
- * however, here we're just sending it fake digits.
- */
+// Simula a entrada de dados do teclado físico de um telefone.
+// Aqui apenas geramos números simulados para testar o sistema.
 public class KeyPad {
     private final PhoneModel model;
 
